@@ -24,6 +24,7 @@
 
     <style name="StorageManager" parent="Theme.SettingsBase">
         <item name="preferenceTheme">@style/PreferenceTheme</item>
+        <item name="android:windowOptOutEdgeToEdgeEnforcement">true</item>
     </style>
 
     <style name="TransparentDialog" parent="@android:style/Theme.DeviceDefault.Light.NoActionBar.TranslucentDecor">
